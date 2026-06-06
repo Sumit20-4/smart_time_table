@@ -1,4 +1,4 @@
-# smart_time_table ΓÇö AI Timetable Generator
+# smart_time_table -AI Timetable Generator
 An intelligent timetable generation system that uses genetic algorithms to automatically create conflict-free academic schedules. Built with a React frontend and FastAPI backend.
 
 System Architecture
